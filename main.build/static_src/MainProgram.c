@@ -1,0 +1,1 @@
+/home/alexander/usr/Task-lang/lib/python3.11/site-packages/nuitka/build/static_src/MainProgram.c

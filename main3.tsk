@@ -1,0 +1,3 @@
+print(1)
+t = read("file.txt")
+print(t)
