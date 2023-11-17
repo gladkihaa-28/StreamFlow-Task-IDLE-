@@ -1,0 +1,5 @@
+import module
+
+
+@minus(res)(5, 3)
+print(res)
